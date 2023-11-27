@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
